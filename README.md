@@ -69,7 +69,7 @@ The main driver class providing an interactive Command-Line Interface (CLI) menu
 ![Main Menu and Add Customer](Screenshot/menu.png)
 
 ### 2. Add Another Account
-![Add Another Account](Screenshot/add acc.png)
+![Add Account](<Screenshot/add acc.png>)
 
 ### 3. Deposit Operation
 ![Deposit Transaction](Screenshot/depo.png)
